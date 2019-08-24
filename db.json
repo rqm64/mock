@@ -189,7 +189,7 @@
                 "label": "Label 10",
                 "required": false,
                 "text": "Number Input",
-                "placeholder": "0.00",
+                "placeholder": ["min", "max"],
                 "step": "0.01",
                 "prefixBefore": " %",
                 "range": true
