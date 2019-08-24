@@ -9,12 +9,6 @@
        "data": [
           [
              {
-                "canHaveAlternateForm": true,
-                "canHaveAnswer": true,
-                "canHaveDisplayHorizontal": true,
-                "canHaveOptionCorrect": true,
-                "canHaveOptionValue": true,
-                "canHavePageBreakBefore": true,
                 "element": "Checkboxes",
                 "field_name": "checkboxes",
                 "id": "DA21A547-754C-41A7-AAF1-4A1EC0FAFFDC",
@@ -36,12 +30,6 @@
                 "tooltip": "Random text"
              },
              {
-                "canHaveAlternateForm": true,
-                "canHaveAnswer": true,
-                "canHaveDisplayHorizontal": true,
-                "canHaveOptionCorrect": true,
-                "canHaveOptionValue": true,
-                "canHavePageBreakBefore": true,
                 "element": "RadioButtons",
                 "field_name": "radiobuttons",
                 "id": "5D113BE1-0951-4CB7-B4FF-624C351342AC",
@@ -63,12 +51,6 @@
                 "tooltip": "Random text"
              },
              {
-                "canHaveAlternateForm": true,
-                "canHaveAnswer": true,
-                "canHaveDisplayHorizontal": true,
-                "canHaveOptionCorrect": true,
-                "canHaveOptionValue": true,
-                "canHavePageBreakBefore": true,
                 "element": "Dropdown",
                 "field_name": "dropdown",
                 "id": "1B1B42A2-3AF7-4F16-A557-2BA119153C68",
@@ -87,12 +69,6 @@
           ],
           [
              {
-                "canHaveAlternateForm": true,
-                "canHaveAnswer": true,
-                "canHaveDisplayHorizontal": true,
-                "canHaveOptionCorrect": true,
-                "canHaveOptionValue": true,
-                "canHavePageBreakBefore": true,
                 "element": "TextInput",
                 "field_name": "text_input",
                 "id": "5650187D-8015-4D26-BAB6-D7B23ABCB4C3",
@@ -102,12 +78,6 @@
                 "placeholder": "palceholder"
              },
              {
-                "canHaveAlternateForm": true,
-                "canHaveAnswer": true,
-                "canHaveDisplayHorizontal": true,
-                "canHaveOptionCorrect": true,
-                "canHaveOptionValue": true,
-                "canHavePageBreakBefore": true,
                 "element": "NumberInput",
                 "field_name": "number_input",
                 "id": "7C10C0A2-CFA4-4ECD-97E5-85C55B92A5DE",
@@ -119,12 +89,6 @@
                 "prefixBefore": " %"
              },
              {
-                "canHaveAlternateForm": true,
-                "canHaveAnswer": true,
-                "canHaveDisplayHorizontal": true,
-                "canHaveOptionCorrect": true,
-                "canHaveOptionValue": true,
-                "canHavePageBreakBefore": true,
                 "element": "TextArea",
                 "field_name": "text_area",
                 "id": "BFD24029-C501-4A5E-938D-B170B97D1AA2",
@@ -138,11 +102,6 @@
                 }
              },
              {
-                "canHaveAlternateForm": true,
-                "canHaveDisplayHorizontal": true,
-                "canHaveOptionCorrect": true,
-                "canHaveOptionValue": true,
-                "canHavePageBreakBefore": true,
                 "dateFormat": "MM/DD/YYYY",
                 "defaultToday": false,
                 "element": "DatePicker",
@@ -157,11 +116,6 @@
                 "timeFormat": "hh:mm a"
              },
              {
-                "canHaveAlternateForm": true,
-                "canHaveDisplayHorizontal": true,
-                "canHaveOptionCorrect": true,
-                "canHaveOptionValue": true,
-                "canHavePageBreakBefore": true,
                 "dateFormat": "MM/DD/YYYY",
                 "defaultToday": false,
                 "element": "DatePicker",
@@ -176,11 +130,6 @@
                 "timeFormat": "hh:mm a"
              },
              {
-                "canHaveAlternateForm": true,
-                "canHaveDisplayHorizontal": true,
-                "canHaveOptionCorrect": true,
-                "canHaveOptionValue": true,
-                "canHavePageBreakBefore": true,
                 "dateFormat": "MM/DD/YYYY",
                 "defaultToday": false,
                 "element": "DatePicker",
@@ -197,12 +146,6 @@
           ],
           [
              {
-                "canHaveAlternateForm": true,
-                "canHaveAnswer": true,
-                "canHaveDisplayHorizontal": true,
-                "canHaveOptionCorrect": true,
-                "canHaveOptionValue": true,
-                "canHavePageBreakBefore": true,
                 "element": "Rating",
                 "field_name": "rating",
                 "id": "85D61EE7-5406-4913-9585-D113908C9D0E",
@@ -211,12 +154,6 @@
                 "text": "Rating"
              },
              {
-                "canHaveAlternateForm": true,
-                "canHaveAnswer": true,
-                "canHaveDisplayHorizontal": true,
-                "canHaveOptionCorrect": true,
-                "canHaveOptionValue": true,
-                "canHavePageBreakBefore": true,
                 "element": "Tags",
                 "field_name": "tags",
                 "id": "D96447B9-D60F-488E-846F-683C0F99A40A",
@@ -246,12 +183,6 @@
                 "placeholder": "palceholder"
              },
              {
-                "canHaveAlternateForm": true,
-                "canHaveAnswer": true,
-                "canHaveDisplayHorizontal": true,
-                "canHaveOptionCorrect": true,
-                "canHaveOptionValue": true,
-                "canHavePageBreakBefore": true,
                 "element": "NumberInput",
                 "field_name": "number_input_range",
                 "id": "7C10C0A2-CFA4-4ECD-97E5-85C55B92A5DE",
