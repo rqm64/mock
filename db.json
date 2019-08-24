@@ -59,7 +59,8 @@
                    }
                 ],
                 "required": false,
-                "text": "Multiple Choice"
+                "text": "Multiple Choice",
+                "tooltip": "Random text"
              },
              {
                 "canHaveAlternateForm": true,
