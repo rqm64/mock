@@ -244,6 +244,23 @@
                 "required": false,
                 "text": "Tags",
                 "placeholder": "palceholder"
+             },
+             {
+                "canHaveAlternateForm": true,
+                "canHaveAnswer": true,
+                "canHaveDisplayHorizontal": true,
+                "canHaveOptionCorrect": true,
+                "canHaveOptionValue": true,
+                "canHavePageBreakBefore": true,
+                "element": "NumberInput",
+                "field_name": "number_input",
+                "id": "7C10C0A2-CFA4-4ECD-97E5-85C55B92A5DE",
+                "label": "Label 5",
+                "required": false,
+                "text": "Number Input",
+                "placeholder": "0.00",
+                "step": "0.01",
+                "prefixBefore": " %"
              }
           ]
        ]
