@@ -260,7 +260,8 @@
                 "text": "Number Input",
                 "placeholder": "0.00",
                 "step": "0.01",
-                "prefixBefore": " %"
+                "prefixBefore": " %",
+                "range": true
              }
           ]
        ]
