@@ -32,7 +32,8 @@
                    }
                 ],
                 "required": false,
-                "text": "Checkboxes"
+                "text": "Checkboxes",
+                "tooltip": "Random text"
              },
              {
                 "canHaveAlternateForm": true,
