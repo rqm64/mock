@@ -20,7 +20,6 @@
                 "element": "Checkboxes",
                 "field_name": "checkboxes",
                 "id": "DA21A547-754C-41A7-AAF1-4A1EC0FAFFDC",
-                "label": "Label 1",
                 "options": [
                    {
                       "key": "checkboxes_option_684F1514-5B1E-44AE-9A4F-FFDD9CCFCC1B",
@@ -40,7 +39,6 @@
                 "element": "RadioButtons",
                 "field_name": "radiobuttons",
                 "id": "5D113BE1-0951-4CB7-B4FF-624C351342AC",
-                "label": "Label 2",
                 "options": [
                    {
                       "key": "checkboxes_option_684F1514-5B1E-44AE-9A4F-FFDD9CCFCC1B",
