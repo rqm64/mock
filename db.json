@@ -8,6 +8,13 @@
        "title": "string",
        "data": [
           [
+              {
+                "element": "Label",
+                "id": "DA21A547-754C-41A7-AAF1-4A1EC0FAFFDC",
+                "required": false,
+                "text": "Section",
+                "tooltip": "Random text"
+             },
              {
                 "element": "Checkboxes",
                 "field_name": "checkboxes",
@@ -27,7 +34,6 @@
                 ],
                 "required": false,
                 "text": "Checkboxes",
-                "tooltip": "Random text"
              },
              {
                 "element": "RadioButtons",
@@ -47,8 +53,7 @@
                    }
                 ],
                 "required": false,
-                "text": "Multiple Choice",
-                "tooltip": "Random text"
+                "text": "Multiple Choice"
              },
              {
                 "element": "Dropdown",
