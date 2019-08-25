@@ -10,6 +10,7 @@
           [
               {
                 "element": "Label",
+                "field_name": "label",
                 "id": "DA21A547-754C-41A7-AAF1-4A1EC0FAFFDC",
                 "required": false,
                 "text": "Section",
