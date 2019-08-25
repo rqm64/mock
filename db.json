@@ -33,7 +33,7 @@
                    }
                 ],
                 "required": false,
-                "text": "Checkboxes",
+                "text": "Checkboxes"
              },
              {
                 "element": "RadioButtons",
